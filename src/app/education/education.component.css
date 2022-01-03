@@ -1,0 +1,27 @@
+section{
+    font-family: "Quicksand", sans-serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    /* background-color: #BFDBF7; */
+    color: #022B3A;
+    background: hsla(210, 78%, 86%, 1);
+
+    background: linear-gradient(270deg, hsla(210, 78%, 86%, 1) 85%, hsla(197, 40%, 60%, 0.7) 98%, hsla(195, 97%, 11%, 0.6) 100%);
+
+    background: -moz-linear-gradient(270deg, hsla(210, 78%, 86%, 1) 85%, hsla(197, 40%, 60%, 0.7) 98%, hsla(195, 97%, 11%, 0.6) 100%);
+
+    background: -webkit-linear-gradient(270deg, hsla(210, 78%, 86%, 1) 85%, hsla(197, 40%, 60%, 0.7) 98%, hsla(195, 97%, 11%, 0.6) 100%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#BFDBF7", endColorstr="#6FABC2", GradientType=1 );
+}
+
+h2{
+    font-size: 37px;
+}
+
+.card{
+    color: #fff;
+    background-color: #022B3A;
+    margin: 50px 100px;
+}
+
